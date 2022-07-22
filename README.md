@@ -14,6 +14,8 @@ linguagens:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 -->
+
+
 🔭 Eu estou atualmente trabalhando como freelancer front-end jr
 🌱 No momento, estou aprendendo JavaScript,TypeScript,Tailwind css ReactJS,NodeJS
 😄 Pronomes: Ela/dela
@@ -23,7 +25,6 @@ linguagens:
   <a href="https://github.com/gleicebsouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleicebsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicebsouza&layout=compact&langs_count=7&theme=radical"/>
-</div>
 </div>
 ##
 <div style="display: inline_block"><br>
@@ -35,7 +36,6 @@ linguagens:
   <img align="center" alt="Gleice-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gleice-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Gleice-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          
 </div>
 
 
@@ -45,6 +45,5 @@ linguagens:
  <a href="https://discord.gg/URvVJSkC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gleice_bsouza@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gleicebsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  
 </div>

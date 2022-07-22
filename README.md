@@ -12,6 +12,7 @@ linguagens:
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
          
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 -->
 🔭 Eu estou atualmente trabalhando como freelancer front-end jr
 🌱 No momento, estou aprendendo JavaScript,TypeScript,Tailwind css ReactJS,NodeJS
@@ -20,8 +21,8 @@ linguagens:
 ##
 <div align="center">
   <a href="https://github.com/gleicebsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleicebsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicebsouza&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gleicebsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicebsouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -44,6 +45,5 @@ linguagens:
   <a href = "mailto:gleice_bsouza@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gleicebsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/gleicebsouza/gleicebsouza/blob/output/github-contribution-grid-snake.svg)
  
 </div>

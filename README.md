@@ -4,9 +4,9 @@
 **gleicebsouza/gleicebsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m currently working on freelancer front-end jr
-- 🌱 I’m currently learning JavaScript, TypeScript, ReactJS,NodeJS
-- 😄 Pronouns: Ela/dela
-- ⚡ Fun fact: apaixonada por tecnologia, LO-FI e COFFEE 💜💻
+🔭 Eu estou atualmente trabalhando como freelancer front-end jr
+🌱 No momento, estou aprendendo JavaScript, TypeScript, ReactJS,NodeJS
+😄 Pronomes: Ela/dela
+⚡ Cusiosidades: Apaixonado por tecnologia, LO-FI e COFFEE 💜💻
 
 

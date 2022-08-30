@@ -13,7 +13,7 @@ linguagens:
 
 
 🔭 Eu estou atualmente trabalhando como freelancer front-end jr
-🌱 No momento, estou aprendendo JavaScript,css,ReactJS
+🌱 No momento, estou aprendendo html,CSS,JavaScript,typescript,ReactJS, NodeJS
 😄 Pronomes: Ela/dela
 ⚡ Cusiosidades: Apaixonada por Tecnologia, Lo-fi e Coffee 💜💻
 ##

@@ -6,14 +6,14 @@ linguagens:
   <img align="center" alt="Gleice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gleice-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img  align="center" alt="Gleice-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-    
+    <img align="center" alt="Gleice-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
 -->
 
 
 🔭 Eu estou atualmente trabalhando como freelancer front-end jr
-🌱 No momento, estou aprendendo HTML, CSS, JavaScript, typescript, ReactJS, NodeJS
+🌱 No momento, estou aprendendo HTML, CSS, JavaScript,Tailwindcss,typescript, ReactJS, NodeJS
 😄 Pronomes: Ela/dela
 ⚡ Cusiosidades: Apaixonada por Tecnologia, Lo-fi e Coffee 💜💻
 ##
@@ -30,7 +30,6 @@ linguagens:
   <img align="center" alt="Gleice-Ty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gleice-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gleice-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Gleice-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Gleice-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 

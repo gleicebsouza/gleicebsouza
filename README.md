@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Gleice 👩‍💻💻
+### Hi, I'm Gleice 👩‍💻💻
 
 <!--
 **gleicebsouza/gleicebsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,10 @@ linguagens:
 -->
 
 
-🔭 Eu estou atualmente trabalhando como freelancer front-end jr
-🌱 No momento, estou aprendendo HTML, CSS, JavaScript,Tailwindcss,typescript, ReactJS, NodeJS
-😄 Pronomes: Ela/dela
-⚡ Cusiosidades: Apaixonada por Tecnologia, Lo-fi e Coffee 💜💻
+🔭 I'm Working as Freelancer Front-End JR
+🌱 At the moment I'm learning HTML, CSS, JavaScript,Tailwindcss,typescript, ReactJS, NodeJS
+😄 Pronoums: sher/her
+⚡ Curiosities: Passionate about Technology, Lo-fi and Coffee 💜💻
 ##
 
 <div align="center">

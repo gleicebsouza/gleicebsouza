@@ -19,7 +19,7 @@ linguagens:
 🔭 Eu estou atualmente trabalhando em projetos pessoais, e freelancer front-end jr
 🌱 No momento, estou aprendendo HTML,CSS,Bootstrap,TailwindCSS,JavaScript,ReactJS,typescript,NodeJS,
 😄 Pronomes: Ela/dela
-⚡ Cusiosidades: Apaixonada por Tecnologia, Lo-fi e Coffee 💜💻
+⚡ Cusiosidades: Apaixonada por Tecnologia,games, Lo-fi e Coffee 💜💻
 ##
 
 <div align="center">

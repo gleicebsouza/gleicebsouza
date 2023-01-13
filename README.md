@@ -21,13 +21,13 @@ linguagens:
 😄 Pronomes: Ela/dela
 ⚡ Cusiosidades: Apaixonada por Tecnologia,games, Lo-fi e Coffee 💜💻
 ##
-<!--
+
 <div align="center">
   <a href="https://github.com/gleicebsouza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gleicebsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleicebsouza&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  -->
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gleice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

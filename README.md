@@ -12,8 +12,13 @@ linguagens:
 -->
 
 
-🔭 Eu estou atualmente trabalhando em projetos pessoais. Transição de carreira para Desenvolvedora Web Front-end Jr
-🌱 No momento, estou aprendendo HTML,CSS,JavaScript,Typescript,Styled Components,ReactJS,Angular,NodeJS e Java.
+👩‍💻 Desenvolvedora Frontend | 🚀 Motion Designer | ✍️ Copywriter
+
+Tech Stack: TypeScript, React.js, Node.js, Angular, Java, API RESTful, Git/GitHub.
+
+🌐 Criadora de experiências digitais inovadoras e escaláveis. Especialista em React.js, Angular e Node.js. Meu código fala por si, versionado com precisão no Git.
+🎨 Motion designer apaixonada por integrar design e funcionalidade. Copywriter que conta histórias persuasivas e autênticas.
+🚀 Aberta a colaborações e desafios. Vamos construir algo incrível juntos!
 😄 Pronomes: Ela/dela
 ⚡ Cusiosidades: Apaixonada por Tecnologia,games, Lo-fi e Coffee 💜💻 
 ##
